@@ -1,6 +1,7 @@
 body {
 	background-color: black;
 	color: white;
+	font-family: verdana;
 }
 
 .penguinBG {
@@ -18,8 +19,33 @@ body {
 
 .penguinLine {
 	border-top: 1px dashed white;
-	border-bottom: 1px dashed white;
-	width: 200px;
+	width: 240px;
 	margin-bottom: 50px;
 	margin: auto;
+}
+
+#comingSoon {
+	margin: 0px auto;
+	width: 240px;
+	border: 1px dashed white;
+	padding-bottom: 8px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 80%;
+}
+	
+	a:hover {
+		text-decoration: underline;
+	}
+
+	a:visited {
+		color: white;
+		text-decoration: none;
+	}
+
+p { 
+	font-size: 80%;
 }
