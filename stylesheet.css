@@ -19,14 +19,15 @@ body {
 
 .penguinLine {
 	border-top: 1px dashed white;
-	width: 240px;
+	width: 300px;
 	margin-bottom: 50px;
 	margin: auto;
+	font-size: 150%;
 }
 
 #comingSoon {
 	margin: 0px auto;
-	width: 240px;
+	width: 300px;
 	border: 1px dashed white;
 	padding-bottom: 8px;
 }
