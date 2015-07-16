@@ -23,17 +23,17 @@ body {
 
 .penguinLine {
 	border-top: 1px dashed white;
-	width: 300px;
-	margin-bottom: 50px;
+	width: 18.75em;
+	margin-bottom: 3.125em;
 	margin: auto;
 	font-size: 100%;
 }
 
 #comingSoon {
 	margin: 0px auto;
-	width: 300px;
+	width: 18.25em;
 	border: 1px dashed white;
-	padding-bottom: 8px;
+	padding: 0px 0px 0.5em 0.5em;
 }
 
 a {
@@ -53,4 +53,9 @@ a {
 
 p { 
 	font-size: 80%;
+	margin-bottom: 0px;
+}
+
+ul {
+	margin-top: 0px;
 }
